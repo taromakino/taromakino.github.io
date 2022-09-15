@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Taro Makino"
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   bio              : "NYU Center for Data Science"
   location         : "New York, NY"
   employer         :
