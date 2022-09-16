@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
-title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+title                    : ""
+title_separator          : ""
+name                     : &name ""
+description              : &description ""
 url                      : https://taromakino.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "taromakino.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Taro Makino"
-  avatar           : "portrait.png"
+  avatar           : "profile.png"
   bio              : "NYU Center for Data Science"
   location         : "New York, NY"
   employer         :
