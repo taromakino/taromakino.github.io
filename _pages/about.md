@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+I am a third-year Ph.D. student at the NYU Center for Data Science, advised by Kyunghyun Cho and Krzysztof Geras. I am 
+applying ideas from causality to improve out-of-distribution generalization in machine learning. My aim is to develop 
+simple and effective methods that are applicable to important real-world problems such as medical diagnosis.
+
 News
 ======
 
-9/14/22: "Generative multitask learning mitigates target-causing confounding" was accepted to NeurIPS 2022!
+Sep. 14, 2022: "Generative multitask learning mitigates target-causing confounding" was accepted to NeurIPS 2022!
