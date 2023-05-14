@@ -13,5 +13,6 @@ my research, I apply ideas from causality to improve out-of-distribution general
 to develop simple and effective methods that are applicable to important real-world problems such as drug discovery.
 
 **News**  
-May 8, 2023: Started an internship at Prescient Design to apply causal representation learning to drug discovery.  
+May 8, 2023: I am interning in the Frontier Research group at Prescient Design to work on causal representation learning for drug discovery.
+
 Sep. 14, 2022: "Generative multitask learning mitigates target-causing confounding" was accepted to NeurIPS 2022.
