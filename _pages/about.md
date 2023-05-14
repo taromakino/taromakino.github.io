@@ -10,7 +10,8 @@ redirect_from:
   
 I am a third-year Ph.D. student at the NYU Center for Data Science, advised by Kyunghyun Cho and Krzysztof Geras. In 
 my research, I apply ideas from causality to improve out-of-distribution generalization in machine learning. My aim is 
-to develop simple and effective methods that are applicable to important real-world problems such as medical diagnosis.
+to develop simple and effective methods that are applicable to important real-world problems such as drug discovery.
 
 **News**  
-Sep. 14, 2022: "Generative multitask learning mitigates target-causing confounding" was accepted to NeurIPS 2022!
+May 8, 2023: Started an internship at Prescient Design to apply causal representation learning to drug discovery.  
+Sep. 14, 2022: "Generative multitask learning mitigates target-causing confounding" was accepted to NeurIPS 2022.
