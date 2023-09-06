@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-[Detecting incidental correlation in multimodal learning via latent variable modeling](https://openreview.net/forum?id=QoRo9QmOAr)
-**Taro Makino**, Yixin Wang, Krzysztof J. Geras, and Kyunghyun Cho
+[Detecting incidental correlation in multimodal learning via latent variable modeling](https://openreview.net/forum?id=QoRo9QmOAr)  
+**Taro Makino**, Yixin Wang, Krzysztof J. Geras, and Kyunghyun Cho  
 _Transactions on Machine Learning Research (TMLR), 2023_
 
 [Generative multitask learning mitigates target-causing confounding](https://arxiv.org/abs/2202.04136)  
