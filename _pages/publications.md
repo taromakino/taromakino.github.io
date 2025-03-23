@@ -10,7 +10,6 @@ Supervised Contrastive Block Disentanglement
 Ana Carolina Leote, Burkhard Hoeckendorf, Stephen Ra, David Richmond, Kyunghyun Cho, Aviv Regev, and Romain Lopez  
 _Under review_
 
-
 [A framework for multi-modal learning: jointly modeling inter- and intra-modality dependencies](https://arxiv.org/abs/2405.17613)  
 Divyam Madaan, **Taro Makino**, Sumit Chopra, and Kyunghyun Cho  
 _Advances in Neural Information Processing Systems (NeurIPS), 2024_
