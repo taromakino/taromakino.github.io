@@ -1,14 +1,11 @@
 ---
 layout: archive
 title: ""
-permalink: /cv/
+permalink: /education/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
-Education
-======
 
 Ph.D. Machine Learning (4.0 GPA), NYU Center for Data Science, 2020 - 2025
 
