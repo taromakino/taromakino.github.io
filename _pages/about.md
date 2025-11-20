@@ -9,9 +9,7 @@ redirect_from:
 ---
   
 
-I am a Research Scientist on the Applied Team at Sakana AI. Previously, I earned a Ph.D. in Data Science at the NYU 
-Center for Data Science, advised by Kyunghyun Cho and Krzysztof Geras. In my research, I aim to solve diverse real-world 
-tasks with minimal task-specific customization.
+I am a Research Scientist on the Applied Team at Sakana AI. I work on automatic evaluation of AI agents for bespoke, real-world problems. Previously, I earned a Ph.D. in Data Science at the NYU Center for Data Science, advised by Kyunghyun Cho and Krzysztof Geras.
 
 **News**  
 Mar. 17, 2025: I defended my Ph.D. at the NYU Center for Data Science.
