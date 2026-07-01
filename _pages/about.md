@@ -11,6 +11,8 @@ redirect_from:
 
 I am a Research Scientist at Sakana AI, where I work on AI systems for financial applications and research methods that bridge advances in machine learning with real-world deployment. Previously, I earned a Ph.D. in Data Science from the NYU Center for Data Science under the supervision of Kyunghyun Cho and Krzysztof Geras. My doctoral research focused on identifying and mitigating spurious correlations in real-world datasets, particularly in medical and biological applications.
 
+Email: taro[at]sakana[dot]ai
+
 **News**  
 Jan. 26, 2026: "EDINET-Bench: Evaluating LLMs on Complex Financial Tasks using Japanese Financial Statements" was accepted to ICLR 2026.
 
