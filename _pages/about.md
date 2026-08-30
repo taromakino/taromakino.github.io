@@ -9,7 +9,7 @@ redirect_from:
 ---
   
 
-I am a Research Scientist at Sakana AI, where I work on AI systems for financial applications and research methods that bridge advances in machine learning with real-world deployment. Previously, I earned a Ph.D. in Data Science from the NYU Center for Data Science under the supervision of Kyunghyun Cho and Krzysztof Geras. My doctoral research focused on identifying and mitigating spurious correlations in real-world datasets, particularly in medical and biological applications.
+I am a Research Scientist at Sakana AI, where I work on AI systems for real-world deployment, particularly in the financial sector. Previously, I earned a Ph.D. in Data Science from the NYU Center for Data Science under the supervision of Kyunghyun Cho and Krzysztof Geras. My doctoral research focused on identifying and mitigating spurious correlations in real-world datasets, particularly in medical and biological applications.
 
 Email: taro[at]sakana[dot]ai
 
@@ -18,7 +18,7 @@ Jan. 26, 2026: "EDINET-Bench: Evaluating LLMs on Complex Financial Tasks using J
 
 Mar. 17, 2025: I defended my Ph.D. at the NYU Center for Data Science.
 
-Mar. 3, 2025: I joined Sakana AI as a Research Scientist on the Applied Team.
+Mar. 3, 2025: I joined Sakana AI as a Research Scientist.
 
 Sep. 25, 2024: "Jointly modeling inter- & intra-modality dependencies for multi-modal learning" was accepted to NeurIPS 2024.
 
