@@ -14,6 +14,8 @@ I am a Research Scientist at Sakana AI, where I work on AI systems for real-worl
 Email: taro[at]sakana[dot]ai
 
 **News**  
+Sep. 25, 2026: "CoffeeBench: Benchmarking Long-Horizon LLM Agents in Heterogeneous Multi-Agent Economies" was accepted to NeurIPS 2026.
+
 Jan. 26, 2026: "EDINET-Bench: Evaluating LLMs on Complex Financial Tasks using Japanese Financial Statements" was accepted to ICLR 2026.
 
 Mar. 17, 2025: I defended my Ph.D. at the NYU Center for Data Science.
